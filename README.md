@@ -1,4 +1,4 @@
-# actl2131_assignment
+# actl2131Assignment
 
 Submitted for ACTL2131 - Probability and Mathematical Statistics.
 
